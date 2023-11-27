@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\projects\git\competitionsport\competitionsport\source.cpp(242): warning C4101: cstr: неиспользованная локальная переменная
+  CompetitionSport.vcxproj -> D:\Projects\Git\CompetitionSport\Debug\CompetitionSport.exe
